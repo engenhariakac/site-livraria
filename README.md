@@ -1,2 +1,3 @@
 #site-barbearia
-Projeto feito com layouts responsivos, com logo, cardápio, favoritos, sacola de compras, perfil, barra de pesquisa, ranking de mais vendidos, newsletter e links parceiros.
+Projeto feito com layouts responsivos (adaptado para computador, tablet e celular). 
+Site simples e clean, com logo, menu, favoritos, perfil, sacola de compras, barra de pesquisa, lançamentos, ranking de mais vendidos, indicação de livros similares, newsletter e links parceiros.
